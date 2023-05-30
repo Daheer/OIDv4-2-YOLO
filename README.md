@@ -1,5 +1,5 @@
 # OIDv4-2-YOLO
-Custom toolkit for converting Open Images Dataset v4 (OIDv4) annotations to YOLO format.
+An extension of Open Images Dataset v4 (OIDv4) toolkit for converting annotations to YOLO format.
 
 ```
    o-o  o-O-o o-o         o  o      o          o   o  o-o  o      o-o 
